@@ -4,6 +4,7 @@ EffiSend is an identity and payments platform powered by Solana
 ## ⚡Fast Links:
 
 VIDEODEMO: [LINK](https://youtu.be/3dqDYvcpe90)
+
 PITCH DECK: [LINK](https://docs.google.com/presentation/d/1TTnpSJ9s_kjioQ8f1ceWbHCEwSje5JBnt04r5IGJuc4/edit?usp=sharing)
 
 
@@ -19,5 +20,9 @@ app:
 
 The Dapp Store CLI will display the following information after submitting.
 <img src="./Images/dapp-store.png">
+
+## 🚀 System Diagram
+
+EffiSend is built entirely from scratch to leverage the most advanced web3 infrastructure.
 
 
