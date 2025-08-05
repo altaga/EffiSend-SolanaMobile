@@ -7,6 +7,26 @@ VIDEODEMO: [LINK](https://youtu.be/3dqDYvcpe90)
 
 PITCH DECK: [LINK](https://docs.google.com/presentation/d/1TTnpSJ9s_kjioQ8f1ceWbHCEwSje5JBnt04r5IGJuc4/edit?usp=sharing)
 
+## Solution Diagram:
+
+<img src="./Images/diagram.drawio.png">
+
+- [**BONK**](https://bonkcoin.com/): 
+is a utility token that empowers users to interact with Solana's decentralized services and rewards distribution.
+  - [CODE](./Cloud%20Functions/sendRewards.js) 
+
+- [**Solana**](https://solana.com/): 
+Serves as the main blockchain powering EffiSend transactions and rewards distribution. This chain offers massive scalability, low fees, and fast transaction finality, making it ideal for scalable token transfers and automated operations tied to BONK.
+  - [CODE](./Cloud%20Functions/cardTopUp.js)
+
+- [**Langchain (AI Agent)**](https://lanchain.com/): 
+This framework enables us to create our agent system and its interaction with the user through DeSmond. It allows EffiSend to facilitate Solana native transfers, perform an off-ramp to our Kast card.
+  - [CODE](./Agent/index.js)
+
+- [**DeepFace**](https://viso.ai/computer-vision/deepface/): 
+DeepFace is used to enhance facial recognition capabilities with real-time verification and anti-spoofing features. By cross-validating identity against secure embeddings, it boosts biometric reliability, ensuring that wallet access and reward claiming remain both frictionless and secure.
+  - [CODE](./FaceID/main.py)
+
 
 ## Dapp Store 
 
@@ -24,5 +44,3 @@ The Dapp Store CLI will display the following information after submitting.
 ## 🚀 System Diagram
 
 EffiSend is built entirely from scratch to leverage the most advanced web3 infrastructure.
-
-
