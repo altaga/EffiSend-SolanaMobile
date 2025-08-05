@@ -5,7 +5,7 @@ EffiSend is an identity and payments platform powered by Solana
 
 VIDEODEMO: [LINK](https://youtu.be/3dqDYvcpe90)
 
-dApp Store APK: [LINK](https://1drv.ms/u/c/cd37f27a646d3078/EdTA_mkOi3NCjbpH4PeGDPQBhgHWdQOAulOmehPFVNtADQ?e=Ns9CXW)
+dApp Store APK: [LINK](https://1drv.ms/u/c/cd37f27a646d3078/EdTA_mkOi3NCjbpH4PeGDPQBcy3oQGGKTG8Y3NXOtTp5pA?e=fqreLc)
 
 PITCH DECK: [LINK](https://docs.google.com/presentation/d/1TTnpSJ9s_kjioQ8f1ceWbHCEwSje5JBnt04r5IGJuc4/edit?usp=sharing)
 
